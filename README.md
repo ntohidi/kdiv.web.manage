@@ -58,10 +58,12 @@ history of web
 - rise and fall of the games
 
  programming
-- python
-- js
-- c#
-- lua
+- HTML
+- CSS
+- JS
+- MySQL
+- MongoDB
+- Telegram bot Integration
 
 student workshop series
 - Minecraft mod
@@ -75,13 +77,16 @@ training workshop
 - open to public workshop for rehiring purpose
 
  competitions
-???
+- devpost
+- https://competition.adesignaward.com/competitions/web-design.html
+- https://www.eventbrite.com/d/malaysia--kuala-lumpur/web-development-classes/
 
  publications
-- LinkedIn posts #kidocode #kidocode_game_department #kidocode_internship
--repost from game news
--repost kidocode
-- introducing good resources such as books, channels, tutorials, …
+- LinkedIn posts #kidocode #kidocode_web_department #kidocode_internship
+- Repost web news
+- Repost kidocode
+- Follow other web/software developers and share important posts for knowledge
+- Introducing good resources such as books, channels, tutorials, people etc
 
 production
 - game for other departments e.g. math game
@@ -91,7 +96,13 @@ production
 - kidocode mobile app games (hyper casual)
 
 hiring
+- Based on interview
+- Check from LinkedIn especially those with the #OpenToWork banner and hashtag
+- Personal networking
 
 marketing
+- Personal networking
+- LinkedIn
+
 
 To be continued…
