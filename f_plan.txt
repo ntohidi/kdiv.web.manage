@@ -69,15 +69,19 @@ history of web
 - Telegram/Discord bot Integration
 
 student workshop series
-- Minecraft mod
-- Minecraft map
-- scratch games
-- roblox
+- HTML/CSS/JS
+- Python (Flask)
+- Database (MySQL and MongoDB)
+- Applications (Telegram Bot)
+- Deployment
 
 training workshop
-- running workshop at unies
+- running workshop at unis
+   1. UnIKL MIIT
 - getting outsourced companies to run workshop in kidocode
 - open to public workshop for rehiring purpose
+- online workshops
+- internal workshop with colleagues
 
  competitions
 - devpost
