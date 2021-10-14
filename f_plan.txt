@@ -45,19 +45,15 @@ history of web
 - Pycharm
 - Microsoft Visual Studio
 
- game theory
-- psychology
-- principal
-- game music
-- game design (colors and characters)
-- game story
-- game economy (how games make money)
-- game types (genre)
+ web analysis
+- review of websites
+- survey of famous websites with good feedback from users on functionality
+- web architecture especially for famous websites
+- front-end and back-end
 
-
- game analyses
-- review the game elements
-- rise and fall of the games
+web architecture
+- Single-page, Multi-page and Progressive web apps
+- Microservices and serverless architecture
 
  programming
 - HTML

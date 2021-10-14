@@ -1,6 +1,4 @@
-# kdiv.web.manage
-
-The list of things game department can do (incomplete)
+The list of things web department can do (in progress)
 
 Networking
 - universities with web dev
@@ -26,9 +24,12 @@ history of web
 - http://info.cern.ch/hypertext/WWW/TheProject.html
 
  cool websites
-- roblox
-- minecraft
-- vr/ar games
+- w3schools
+- github
+- gamepedia
+- Google or other search engines
+- Woven
+- Mikiya Kobayashi
 
  certificates
 - edx
@@ -37,25 +38,22 @@ history of web
 - coursera
 - internal certificates
 
- game engines
-- roblox studio
-- unity
-- real engine
-- blender
 
- game theory
-- psychology
-- principal
-- game music
-- game design (colors and characters)
-- game story
-- game economy (how games make money)
-- game types (genre)
+ IDEs
+- Repl.it (Online)
+- Visual Studio Code
+- Pycharm
+- Microsoft Visual Studio
 
+ web analysis
+- review of websites
+- survey of famous websites with good feedback from users on functionality
+- web architecture especially for famous websites
+- front-end and back-end
 
- game analyses
-- review the game elements
-- rise and fall of the games
+web architecture
+- Single-page, Multi-page and Progressive web apps
+- Microservices and serverless architecture
 
  programming
 - HTML
@@ -63,18 +61,23 @@ history of web
 - JS
 - MySQL
 - MongoDB
-- Telegram bot Integration
+- Python
+- Telegram/Discord bot Integration
 
 student workshop series
-- Minecraft mod
-- Minecraft map
-- scratch games
-- roblox
+- HTML/CSS/JS
+- Python (Flask)
+- Database (MySQL and MongoDB)
+- Applications (Telegram Bot)
+- Deployment
 
 training workshop
-- running workshop at unies
+- running workshop at unis
+   1. UnIKL MIIT
 - getting outsourced companies to run workshop in kidocode
 - open to public workshop for rehiring purpose
+- online workshops
+- internal workshop with colleagues
 
  competitions
 - devpost
@@ -89,11 +92,10 @@ training workshop
 - Introducing good resources such as books, channels, tutorials, people etc
 
 production
-- game for other departments e.g. math game
-- publish games for kidocode
-- Minecraft kidocode map
-- roblox kidocode map
-- kidocode mobile app games (hyper casual)
+- create a website for each department
+- publish bots or website to help Kidocode
+- Kidocode website to navigate to different department
+- Telegram bot about kidocode (information for customers and trainers)
 
 hiring
 - Based on interview
