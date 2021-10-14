@@ -1,1 +1,102 @@
-thie will be my master plan!!
+The list of things web department can do (in progress)
+
+Networking
+- universities with web dev
+- software companies
+- connect to software developers on LinkedIn
+
+Cubie content
+- adding different frameworks courses, lick reactJS, angular, vuejs, fluter, and ...
+- adding mysql database course
+- adding nodeJs and express course
+- adding telegram bot course
+
+history of wev
+- Mosaic
+- back-ends technologies
+- .NET
+
+
+ trendy web frameworks
+- reactJS
+- angularjs
+- vuejs
+-
+
+ certificates
+- coursera
+- udemy
+- edx
+- harvardx
+- internal certificates
+
+ IDEs
+- PyCharm
+- VSCode
+- Visual studio
+- Online editors like repl.it, glitch
+
+ game theory
+- psychology
+- principal
+- game music
+- game design (colors and characters)
+- game story
+- game economy (how games make money)
+- game types (genre)
+
+
+ web analyses
+- review the websites structure
+- code review on open source projects
+- 
+
+programming
+- html
+- css
+- JS
+- NodeJs
+- python
+- asp.net
+- c#
+- express
+
+student workshop series
+- html
+- css
+- JS
+- python flask
+- database (mongoDb, mysql)
+- chatbots
+
+training workshop
+- running workshop at unies
+- getting outsourced companies to run workshop in kidocode
+- open to public workshop for rehiring purpose
+- internal workshops
+- online workshop
+
+competitions
+- https://www.shopify.com/partners/blog/7-web-design-and-development-awards-you-should-enter
+
+ publications
+- LinkedIn posts #kidocode #kidocode_wev_department #kidocode_internship
+- re-post from web news
+- re-post kidocode
+- introducing good resources such as books, channels, tutorials, …
+- follow famous web developer on social media and share their post
+
+production
+- design and develope websites and app for other department
+- develop projects and different components for kidocode team
+
+hiring
+- getting interns
+- heck LinkedIn profile and their CV
+
+marketing
+- create interesting videos to promote wev department and web development
+- posing content on the social media(mostly LinkedIn)
+- branding
+
+To be continued…
