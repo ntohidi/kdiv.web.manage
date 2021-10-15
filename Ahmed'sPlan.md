@@ -13,11 +13,7 @@ cubie content
 - kaboom games in cubie
 
 history of web
-- super mario
-- pong game
-- snake game
-- Tetris
-…
+
 
  trendy games
 - roblox
