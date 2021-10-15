@@ -12,7 +12,7 @@ cubie content
 - p5 games in cubie
 - kaboom games in cubie
 
-history of game
+history of web
 - super mario
 - pong game
 - snake game
