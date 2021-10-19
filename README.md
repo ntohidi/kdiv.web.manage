@@ -8,7 +8,7 @@ Networking
 
 cubie content
 - adding more basic languages first to cubie
-- teach how to deploy websites on different 
+- teach how to deploy websites on different services(heroku, aws, github)
 - add different types of back end studies
 - code some basic games using what we have learnt
 - teach telegram/discord bots 
@@ -55,12 +55,16 @@ web architecture
 - Single-page, Multi-page and Progressive web apps
 - Microservices and serverless architecture
 
- programming
+MarkUp
 - HTML
 - CSS
 - JS
+
+Database
 - MySQL
 - MongoDB
+
+Programming
 - Python
 - Telegram/Discord bot Integration
 
