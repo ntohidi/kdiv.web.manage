@@ -7,29 +7,28 @@ Networking
 
 cubie content
 - adding unclecode games to cubie
-- creating games with turtle
-- phaser games in cubie
-- p5 games in cubie
-- kaboom games in cubie
+- creating websites with HTML,CSS,JS
+- JS UI frameworks in cubie
+- Nodejs in cubie
+- Databases in cubie
 
 history of web
+- begining of the web [link](https://home.cern/science/computing/birth-web/short-history-web)
+- HTTP versions
+- 
 
-
- trendy games
-- roblox
-- minecraft
-- vr/ar games
+ trendy technology
+- React
+- Vue
+- Angular
+- UI/UX
 
  certificates
 - edx
 - harvardx
+- udemy 
+- youtube
 - internal certificates
-
- game engines
-- roblox studio
-- unity
-- real engine
-- blender
 
  game theory
 - psychology
@@ -41,20 +40,25 @@ history of web
 - game types (genre)
 
 
- game analyses
-- review the game elements
+ Websites analyses
+- review the big websites elements
 - rise and fall of the games
 
  programming
 - python
-- js
-- c#
-- lua
+- PHP
+- c#(DOTNET)
+- GO
+- JS
+- HTML
+- CSS
+- JAVA(Spring boot)
 
 student workshop series
-- Minecraft mod
-- Minecraft map
-- scratch games
+- create a static portfolio and the importance of it.
+- adding a backend for the portfolio 
+- creating a blog 
+- 
 - roblox
 
 training workshop
@@ -72,14 +76,19 @@ training workshop
 - introducing good resources such as books, channels, tutorials, …
 
 production
-- game for other departments e.g. math game
+- department portfolio for other departments e.g. math game
 - publish games for kidocode
-- Minecraft kidocode map
-- roblox kidocode map
-- kidocode mobile app games (hyper casual)
+
 
 hiring
+- targting 10 interns 
+  - 1 x entery level 
+  - 3 x beginner 
+  - 5 x intermediate 
+  - 1 x advance
 
 marketing
+- creating a post on social media interducing web development 
+- writing a script for a video 
+- showing a sneak peak for what we use 
 
-To be continued…
