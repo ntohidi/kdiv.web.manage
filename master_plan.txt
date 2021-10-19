@@ -6,10 +6,10 @@ Networking
 - connect to software developers on LinkedIn
 
 Cubie content
-- adding different frameworks courses, lick reactJS, angular, vuejs, fluter, and ...
+- adding different frameworks courses, like reactJS, angular, vuejs, fluter, and ...
 - adding mysql database course
 - adding nodeJs and express course
-- adding telegram bot course
+- adding telegram/FB bot course
 
 history of wev
 - Mosaic
@@ -36,22 +36,13 @@ history of wev
 - Visual studio
 - Online editors like repl.it, glitch
 
- game theory
-- psychology
-- principal
-- game music
-- game design (colors and characters)
-- game story
-- game economy (how games make money)
-- game types (genre)
 
-
- web analyses
+web analyses
 - review the websites structure
 - code review on open source projects
 - 
 
-programming
+programming/markup languages
 - html
 - css
 - JS
@@ -65,8 +56,9 @@ student workshop series
 - html
 - css
 - JS
+- python
 - python flask
-- database (mongoDb, mysql)
+- databases (mongoDb, mysql)
 - chatbots
 
 training workshop
@@ -92,7 +84,7 @@ production
 
 hiring
 - getting interns
-- heck LinkedIn profile and their CV
+- check LinkedIn profile and their CV
 
 marketing
 - create interesting videos to promote wev department and web development
