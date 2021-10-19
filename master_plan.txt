@@ -58,6 +58,7 @@ student workshop series
 - JS
 - python
 - python flask
+- fastapi
 - databases (mongoDb, mysql)
 - chatbots
 
